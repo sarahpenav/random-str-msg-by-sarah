@@ -12,5 +12,8 @@
   "bin": {
     "random-str-msg-by-sarah": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
