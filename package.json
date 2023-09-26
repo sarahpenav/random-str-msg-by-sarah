@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-by-sarah",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sarah Peña Vásquez <sarahpenavasquez@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-by-sarah": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
